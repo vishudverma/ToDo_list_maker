@@ -19,7 +19,7 @@ class ToDo(db.Model):
 @app.route('/', methods=['POST','GET'])
 def index():
     if(request.method == 'POST'):
-        task_content =request.form['Content']
+        task_content =request.form['content']
         new_task = ToDo(content=task_content)
 
         try:
