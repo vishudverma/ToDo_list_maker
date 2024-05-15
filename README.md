@@ -1,2 +1,2 @@
-# Full_scientific_Calculator
- My first ever attempt at developing a full scale scientific calculator hosted over a web-page to perform any and all mathematical operations upto a higher engineering level.
+# ToDo List maker
+my attempt and take at making the ToDo list, my first ever attemp to a developer based project to expand my learning................. I will link the hosted site soon, maybe 
